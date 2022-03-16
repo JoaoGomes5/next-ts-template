@@ -1,21 +1,22 @@
 import Head from 'next/head';
 import React from 'react';
-import UnizonLogo from '../assets/image.svg';
+import { Container, Icon } from '../styles/pages/Home';
+
+
 
 
 export default function Home() {
   return (
-    <div>
+    <Container>
       <Head>
         <title>Create Next App</title>
       </Head>
 
-      <main>
-        <UnizonLogo />
-        <h1>Hello World</h1>
-      </main>
+        <Icon />
+        <h1>ReactJs Structure</h1>
+        <p>A ReactJs + NextJs structure made by Joao Gomes 👋</p>
 
-    </div>
+    </Container>
   );
 }
 
