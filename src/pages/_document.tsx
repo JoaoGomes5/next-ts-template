@@ -40,7 +40,7 @@ export default class MyDocument extends Document {
 
           <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700" rel="stylesheet" />
 
-          <link rel="icon" href="https://rocketseat.com.br/favicon.ico" />
+          <link rel="icon" href="https://i.imgur.com/eAlTT5L.png" />
 
         </Head>
 
